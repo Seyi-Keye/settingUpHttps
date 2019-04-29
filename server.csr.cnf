@@ -1,0 +1,14 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C=NG
+ST=Lagos
+L=Lagos
+O=Example
+OU=Mine
+emailAddress=aromokeyes2@gmail.com
+CN = localhost
