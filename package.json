@@ -1,0 +1,19 @@
+{
+  "name": "examplehttps",
+  "version": "1.0.0",
+  "description": "Seeting up https on localhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ssl",
+    "https"
+  ],
+  "author": "Aromokeye Oluwaseyi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
